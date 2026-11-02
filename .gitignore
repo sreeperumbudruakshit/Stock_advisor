@@ -1,0 +1,15 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+
+# Generated local analysis logs
+analysis_log.csv
+logs.csv
